@@ -1,4 +1,4 @@
-name = 'rf'
+name = 'bolu'
 
 if name == 'bolu':
     print('Welcome %s' % name)
